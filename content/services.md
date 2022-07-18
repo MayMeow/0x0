@@ -9,5 +9,6 @@ draft: false
 - **[Miniflux](https://miniflux.0x0.sk/)** - Web based RSS reader (ask for account)
 - **[mstdn.quest](https://mstdn.quest/)** - Password manager
 - **[Gitea](https://vault.0x0.sk/)** - A painless, self-hosted Git service (ask for account)
+- **[Drone](https://drone.0x0.sk/)** - Unlimited continuous integration builds for you projects
 - **[Hastebin](https://hastebin.0x0.sk/)** - A place to share you code snippets
 - **[Minio](https://s3-console.0x0.sk/)** - A S3 compatibile storage service (ask for account)
