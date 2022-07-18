@@ -1,0 +1,51 @@
+baseurl = "https://www.0x0.sk/"
+languageCode = "en-us"
+theme = "hugo-theme-terminal"
+paginate = 5
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "pink"
+  showMenuItems = 5
+  fullWidthTheme = false
+  centerTheme = true
+
+[languages]
+  [languages.en]
+    title = "0x0"
+    subtitle = "The Null pointer project"
+    keywords = ""
+    copyright = "CC BY-NC 4.0"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "0x0"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+
+      [[languages.en.menu.main]]
+        identifier = "status"
+        name = "Server status"
+        url = "https://status.0x0.sk/status/default"
+
+      [[languages.en.menu.main]]
+        identifier = "tos"
+        name = "Terms of service"
+        url = "/tos"
+
+      [[languages.en.menu.main]]
+        identifier = "services"
+        name = "Services"
+        url = "/services"
+
+      [[languages.en.menu.main]]
+        identifier = "support"
+        name = "Support"
+        url = "/support"
