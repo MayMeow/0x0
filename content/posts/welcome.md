@@ -22,6 +22,6 @@ Registration is mostly open but there are few services like Gitea or Miniflux wh
 
 ## Abuse
 
-Send me an email: `email=$(printf 'may%s0x0%ssk' @ .) | echo $email`. Not understand? Maybe this is not for you.
+Send me an email: `email=$(printf 'may%s0x0%ssk' @ .) | echo $email`.
 
 Allow up to 48 hours to response.
