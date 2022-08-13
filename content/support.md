@@ -6,6 +6,6 @@ draft: false
 
 If you like **0x0** or if you using any of our service and want to support this server, you can do it trough 
 
-> https://ko-fi.com/maymeow
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5DMOTA)
 
 Thank You ❤️
