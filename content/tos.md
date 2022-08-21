@@ -8,7 +8,7 @@ draft: false
 
 ### 1.1 Using 0x0 services means accpting our terms
 
-If you interact with service in any way (registerred as a user / remote instance - if federation supports it) you agree whit terms written in this document.
+If you interact with service in any way you agree whit terms written in this document.
 
 ### 1.2 This document evolves over time
 
@@ -69,5 +69,7 @@ Even tho technically a call-feature may exist, it is over the internet and does 
 ## 10. Document history
 
 - **July 18, 2022** - Initial version
+- **August 21, 2022** - Update clausue `1.1 Using 0x0 services means accpting our terms`
+  - remove `(registerred as a user / remote instance - if federation supports it)` as there are services that you allow to use them withou registration
 
 This document was derived from https://tchncs.de/tos
