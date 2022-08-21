@@ -14,6 +14,9 @@ draft: false
 - **[Minio](https://s3-console.0x0.sk/)** - A S3 compatibile storage service (ask for account)
 - **[Linkding](https://linkding.0x0.sk/)** - Self-hosted bookmark service
 - **[Nextcloud](https://cloud.0x0.sk/)** - Cloud for the Admins, friends and family
+- **[Send](https://send.0x0.sk)** - Simple, private file sharing (Max filesize: 512MB, Expires after:1 hour or 1 day or 1 download)
+
+> If you interact with service in any way, you agree whit terms written in [Terms of service](https://www.0x0.sk/tos/).
 
 ### Internal services
 
