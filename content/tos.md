@@ -8,7 +8,7 @@ draft: false
 
 ### 1.1 Using 0x0 services means accpting our terms
 
-If you interact with service in any way you agree whit terms written in this document.
+If you interact with service in any way, you agree whit terms written in this document.
 
 ### 1.2 This document evolves over time
 
