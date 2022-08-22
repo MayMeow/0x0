@@ -27,6 +27,10 @@ draft: false
 
 Want to know more about our servers? [Look here](https://wiki.0x0.sk/en/cloud-services#our-servers)
 
+### Where are stored my data?
+
+> Germany, Slovakia, Switzerland
+
 ### Do you want your own server?
 
 Do you want your own mastodon or gitea server? Send me an email: `email=$(printf 'may%smaymeow%scom' @ .) | echo $email` for more details.
