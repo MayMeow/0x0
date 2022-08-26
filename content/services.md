@@ -5,7 +5,7 @@ draft: false
 ---
 
 - **[Vaultwarden](https://vault.0x0.sk/)** - Password manager
-- **[Wiki](https://wiki.0x0.sk/)** - 0x0's official wiki (ask if you want contribute)
+- **[Wiki](https://wiki.0x0.sk/)** - 0x0's official wiki
 - **[Miniflux](https://miniflux.0x0.sk/)** - Web based RSS reader (ask for account)
 - **[mstdn.quest](https://mstdn.quest/)** - Federated social site
 - **[Gitea](https://git.0x0.sk/)** - A painless, self-hosted Git service (ask for account)
