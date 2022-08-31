@@ -33,4 +33,7 @@ Want to know more about our servers? [Look here](https://wiki.0x0.sk/en/cloud-se
 
 ### Do you want your own server?
 
-Do you want your own mastodon or gitea server? Send me an email: `email=$(printf 'hello%s0x0%ssk' @ .) | echo $email` for more details.
+Please chose from following services:
+
+- [Mastodon instance](https://maymeow.gumroad.com/l/oezlic)
+
