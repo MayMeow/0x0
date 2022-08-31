@@ -66,10 +66,34 @@ Parts of this service are actually provided by 3rdparties (such as Maigun for em
 
 Even tho technically a call-feature may exist, it is over the internet and does not support any emergency calls what so ever.
 
-## 10. Document history
+## 10. Sub-processors
+
+- Infrastructure (Servers)
+  - Hetzner
+  - Contabo
+
+- Non-Server Infrastructure
+  - Netlify
+  - Cloudflare
+  - AWS
+
+- Email Providers
+  - Fastmail
+  - Protonmail
+  - Mailgun
+
+- SSL/TLS Certificate Authorities
+  - Let's Encrypt
+  - AWS
+
+- Payment Providers
+  - Paypal
+
+## 11. Document history
 
 - **July 18, 2022** - Initial version
 - **August 21, 2022** - Update clausue `1.1 Using 0x0 services means accpting our terms`
   - remove `(registerred as a user / remote instance - if federation supports it)` as there are services that you allow to use them withou registration
+- ** August 31, 2022** - Added `Sub-processors`
 
 This document was derived from https://tchncs.de/tos
