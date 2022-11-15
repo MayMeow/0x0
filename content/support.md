@@ -6,6 +6,7 @@ draft: false
 
 If you like **0x0** or if you using any of our service and want to support this server, you can do it trough 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5DMOTA)
+[![Librepay](https://img.shields.io/liberapay/receives/maymeow.svg?logo=liberapay)]([https://ko-fi.com/D1D5DMOTA](https://liberapay.com/maymeow/))
+
 
 Thank You ❤️
