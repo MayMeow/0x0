@@ -1,10 +1,10 @@
 +++
-title = "Welcome"
+title = "Welcome to 0x0"
 date = "2022-07-18T11:06:09+02:00"
-author = "May"
+author = "0x00"
 authorTwitter = "themaymeow" #do not include @
 cover = ""
-tags = ["", ""]
+tags = []
 keywords = ["", ""]
 description = ""
 showFullContent = true
@@ -14,14 +14,16 @@ hideComments = false
 
 Welcome on **0x0** project home page.
 
-This project contains some selfhosted (by Me) services which are free to use for everyone. You can check them on [Services page](/services). If you want receive notifications feel free to subscribe our [Telegram Channel](https://t.me/TheNULLPointerStatus).
+This project contains some selfhosted services like Forgejo or miniflux. 
 
-Registration is mostly open but there are few services like Gitea or Miniflux which has closed registration. If you want account on them, just send me an email. You must read **[Terms of service](/tos)** before.
+You can check them on [Services page](/services).
 
-**You will need PGP key because I will not send you password over internet as plain text**
+## Can I use this services to?
 
-## Abuse
+Yes, you can. Check My [Ko-fi](https://ko-fi.com/maymeow) page for subscription.
 
-> Send me an email: `email=$(printf 'hello%s0x0%ssk' @ .) | echo $email` for more details.
+## Abuse?
 
-Allow up to 48 hours to response.
+Ping me at mastodon account [@may@social.lol](https://social.lol/@may)[^1]
+
+[^1]: I mostly respond within minutes but please allow me up to 48 hours to response.
