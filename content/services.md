@@ -13,7 +13,7 @@ draft: false
 - **[Forgejo](https://git.0x0.sk/)** - A painless, self-hosted Git service
 - **[Woodpecker](https://woodpecker.0x0.sk/)** - Unlimited continuous integration builds for you projects
 - **[Minio](https://s3-console.0x0.sk/)** - A S3 compatibile storage service
-- **[Miniflux](#)** - Easy to use RSS reader (soon - i have to move it from my personal domain here) 
+- **[Miniflux](https://miniflux.0x0.sk)** - Easy to use RSS reader (soon - i have to move it from my personal domain here) 
 
 > For access these services you will need to have membership. Check the https://ko-fi.com/maymeow
 

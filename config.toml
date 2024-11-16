@@ -15,14 +15,14 @@ paginate = 5
     [languages.en.params]
       menuMore = "Show more"
       readMore = "Read more"
-      title = "🎃 0x0"
+      title = "0x0"
       subtitle = "The Null pointer project"
       keywords = ""
       copyright = "CC BY-NC 4.0"
       readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "🎃 0x0"
+      logoText = "0x0"
       logoHomeLink = "/"
 
     [languages.en.menu]
