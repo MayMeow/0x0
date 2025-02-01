@@ -8,14 +8,38 @@ draft: false
 
 ## Available services
 
-- **[Wiki](https://wiki.0x0.sk/)** - 0x0's official wiki
-- **[0x0.social](#)** - 0x0's Mastodon instance (comming soon)
-- **[Forgejo](https://git.0x0.sk/)** - A painless, self-hosted Git service
-- **[Woodpecker](https://woodpecker.0x0.sk/)** - Unlimited continuous integration builds for you projects
-- **[Minio](https://s3-console.0x0.sk/)** - A S3 compatibile storage service
-- **[Miniflux](https://miniflux.0x0.sk)** - Easy to use RSS reader (soon - i have to move it from my personal domain here) 
+### Development tools
 
-> For access these services you will need to have membership. Check the https://ko-fi.com/maymeow
+|Service|Description|Public?|
+|---|---|---|
+| **[Forgejo](https://git.0x0.sk/)**| A painless, self-hosted Git service | |
+| **[Woodpecker](https://woodpecker.0x0.sk/)** | A simple yet powerfull CI/CD engine | |
+| **[Code Server](#)** | VS Code in the browser | |
+| **[Adminer](#)** | Database management in a single PHP file | |
+
+### Knowledge management & bookmarking
+
+|Service|Description|Public?|
+|---|---|---|
+| **[Miniflux](https://miniflux.werewolf-pentatonic.ts.net/)** | Easy to use RSS reader (soon - i have to move it from my personal domain here) | ✅ |
+| **[Linkding](https://linkding.werewolf-pentatonic.ts.net/login/)** | A self-hosted bookmark manager designed be to be minimal, fast, and easy to set up | ✅ |
+| **[Wiki](https://wiki.0x0.sk/)** | 0x0's official wiki | ✅ |
+
+### Other tools 
+
+|Service|Description|Public?|
+|---|---|---|
+| **[Uptime Kuma](https://status.0x0.sk/)** | A self-hosted monitoring tool | ✅ |
+| **[Minio](#)** | A S3 compatibile storage service | |
+| **[Vaultwarden](#)** | Password manager, Bitwarden compatibile server | |
+| **[Rustdesk](#)** | A selfhosted alternative to Teamviewer | ✅ |
+
+### Soon
+
+- **[0x0.social](#)** - 0x0's Mastodon instance (comming soon)
+
+
+> For access these services (you want to log-in) you will need to have membership. Check the https://ko-fi.com/maymeow
 
 ## Testing [^1]
 
