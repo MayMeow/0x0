@@ -6,5 +6,5 @@ draft: false
 
 - [Servies]({{% ref "/services" %}})
 - [Tech stack]({{% ref "/tech-stack" %}})
-- [TOS]({{% ref "/tos" %}})
+- [Terms of service]({{% ref "/tos" %}})
 - [Support]({{% ref "/support" %}})
