@@ -1,0 +1,165 @@
+@import url(https://cdn.maymeow.com/typography/Technor/css/technor.css);
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Technor-Variable', sans-serif;
+    font-weight: 900;
+}
+
+body {
+    font-family: 'Technor-Variable', sans-serif;
+    font-weight: 300;
+}
+
+code, pre {
+    font-family: 'AzeretMono-Variable', monospace;
+    font-size: .9em;
+}
+
+.meow {
+    &-articles {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+
+        &-year {
+            font-size: 0.8em;
+            text-decoration: none;
+            display: inline-block;
+            border-radius: 20px;
+            padding: 5px 10px;
+            background-color: #313244;
+            border: 1px solid $accent;
+            transition: transform .15s ease-in-out;
+            transform: rotate(5deg);
+            color: $accent;
+            box-shadow: 0 0 5px $accent;
+            text-shadow: 0 0 2px $accent;
+        }
+    }
+
+    &-article {
+        &-widget {
+            background-color: #181825;
+            padding: 10px;
+            border-radius: 8px;
+            transition: transform .15s ease-in-out;
+
+            // for notices and important posts
+            &.importante {
+                box-shadow: 0 0 5px $accent-hover;
+            }
+
+            &:hover {
+                transform: scale(1.05);
+            }
+
+            &-inner {
+                padding: 15px;
+                border-radius: 8px;
+
+                &:hover {
+                    background-color: #1e1e2e;
+
+                    .meow-article-widget-date {
+                        transform: rotate(2deg);
+                    }
+                }
+            }
+
+            &-tags {
+                font-size: 0.8em;
+                text-decoration: none;
+                display: inline-block;
+    
+                border-radius: 20px;
+                padding: 5px 10px;
+                background-color: #313244;
+                border: 1px solid $accent-hover;
+                transition: transform .15s ease-in-out;
+    
+                &:hover {
+                    transform: scale(1.05);
+                }
+            }
+
+            &-date {
+                font-size: 0.8em;
+                display: inline-block;
+    
+                border-radius: 20px;
+                padding: 5px 10px;
+                background-color: #313244;
+                border: 1px solid #6c7086;
+                transition: transform .15s ease-in-out;
+            }
+        }
+    }
+}
+
+a {
+    &.group {
+        text-decoration: none;
+        display: block;
+        background-color: #1e1e2e;
+        padding: 10px 20px;
+        font-size: .9rem;
+        transition: transform .15s ease-in-out;
+
+        &:first-child {
+            border-top-left-radius: 8px;
+            border-top-right-radius: 8px;
+        }
+
+        &:not(:first-child) {
+            border-top: 1px solid #363a4f;
+        }
+
+        &:last-child {
+            border-bottom-left-radius: 8px;
+            border-bottom-right-radius: 8px;
+        }
+
+        &:hover {
+            // color: #eff1f5;
+            @include color-cycle();
+            background-color: #24273a;
+            transform: scale(1.05);
+        }
+    }
+}
+
+// Page header
+// ----------------
+// This is the header for the page, it contains the title and a brand line
+// on projects page and other non post related pages
+.page-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    flex-direction: column;
+    margin-bottom: 1.5rem;
+
+    .brand {
+        width: 3rem;
+        height: .25rem;
+        background-color: $accent;
+        left: 0;
+        right: 0;
+        position: absolute;
+        width: 100%;
+        max-width: 1200px;
+        z-index: 0;
+    }
+
+    h1 {
+        margin: 0;
+        position: absolute;
+        z-index: 2;
+        padding: 0px 20px;
+        color: #eff1f5;
+        background-color: $page-background
+    }
+}

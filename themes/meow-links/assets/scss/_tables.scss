@@ -1,0 +1,32 @@
+table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+    border-collapse: collapse;
+    border: 1px solid var(--uchu-gray-9);
+    transition: transform .15s ease-in-out;
+
+    th {
+        background-color: var(--uchu-gray-3);
+    }
+
+    th,
+    td {
+        padding: 10px;
+        vertical-align: top;
+        border: 1px solid var(--uchu-gray-9);
+    }
+
+    tr{
+        &:nth-child(even) {
+            background-color: var(--uchu-gray-2);
+        }
+
+        &:hover {
+            background-color: var(--uchu-gray-3);
+        }
+    }
+
+    
+}

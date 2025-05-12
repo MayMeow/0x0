@@ -1,0 +1,24 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .meow-header {
+        &-inner {
+            margin-top: var(--space-xs);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: var(--page-width);
+            padding: 0 var(--space-s);
+
+            h1 {
+                color: var(--uchu-pink-8);
+
+                a {
+                    text-decoration: none;;
+                }
+            }
+        }
+    }
+}

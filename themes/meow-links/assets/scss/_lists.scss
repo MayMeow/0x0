@@ -1,0 +1,15 @@
+ul {
+
+    li {
+        list-style: square;
+
+        svg {
+            margin-right: 0.2rem;
+            width: 1rem;
+            fill: $text-color;
+            transition: all 0.2s ease-in-out;
+            display: inline-block;
+            vertical-align: middle;
+        }
+    }
+}

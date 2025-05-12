@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+  <main class="meow-container">
+    <header>
+      {{ partial "header.html" . }}
+    </header>
+    <div class="meow-content">
+      <div class="meow-page wide">
+        {{ block "main" . }}{{ end }}
+      </div>
+    </div>
+    <footer>
+      {{ partial "footer.html" . }}
+    </footer>
+  </main>
+</body>
+</html>

@@ -1,0 +1,40 @@
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding) var(--space-s);
+    font-size: .85rem;
+    color: var(--uchu-yin-6);
+
+    .meow-footer {
+        &-inner {
+            //display: flex;
+            //align-items: center;
+            width: var(--page-width);
+            //padding: 0 var(--padding);
+            margin-bottom: var(--space-xs);      
+            
+            a { 
+                color: var(--uchu-pink-7);
+            }
+
+            svg {
+                width: 1rem;
+                fill: var(--uchu-red-4);
+                display: inline-block;
+                vertical-align: middle;
+            }
+        }
+
+        &-divider {
+            margin-bottom: var(--space-xs);
+
+            svg {
+                width: .75rem;
+                fill: $text-color;
+                display: inline-block;
+                vertical-align: middle;
+            }
+        }
+    }
+}

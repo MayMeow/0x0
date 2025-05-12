@@ -1,0 +1,9 @@
+// cycle through colors for hover states
+@mixin color-cycle() {
+    // --accent-hover has 2 colors
+    @for $i from 1 through length($hover-colors-list) {
+        &:nth-of-type(#{length($hover-colors-list)}n+#{$i}) {
+            color: nth($hover-colors-list, $i);
+        }
+    }
+}
