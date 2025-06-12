@@ -1,1 +1,1 @@
-0x0 is a indie web space in posessnion of [May Meow](https://maymeow.com).
+0x0 is a indie web space
